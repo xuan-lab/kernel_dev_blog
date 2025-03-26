@@ -28,5 +28,5 @@ export default [
     title: 'Exploring File Systems in Linux',
     date: '2025-03-29',
     content: 'File systems are essential for data storage and retrieval. This article will cover different file systems supported by Linux and how they work under the hood...'
-  }
+  },
 ]
