@@ -5,7 +5,7 @@
     </header>
     <router-view/>
     <footer>
-      <p>© 2025 xiexuan</p>
+      <p>© 2025 xiexuan build</p>
     </footer>
   </div>
 </template>
